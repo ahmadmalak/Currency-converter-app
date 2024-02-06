@@ -1,0 +1,15 @@
+com.example.currency_converter_app-window-1.0.0-beta04-0 /Users/ahmadmalak/.gradle/caches/transforms-3/1fc6bcfde64bd444c3b705963d64d52f/transformed/window-1.0.0-beta04/res
+com.example.currency_converter_app-window-java-1.0.0-beta04-1 /Users/ahmadmalak/.gradle/caches/transforms-3/4f6d340d09c8cde9adb119242250f061/transformed/window-java-1.0.0-beta04/res
+com.example.currency_converter_app-annotation-experimental-1.1.0-2 /Users/ahmadmalak/.gradle/caches/transforms-3/514b478559e22a5dca8168db3c7d994a/transformed/annotation-experimental-1.1.0/res
+com.example.currency_converter_app-core-1.6.0-3 /Users/ahmadmalak/.gradle/caches/transforms-3/7e9df2ac2213a6bd3cef0f2f27870d79/transformed/core-1.6.0/res
+com.example.currency_converter_app-debug-4 /Users/ahmadmalak/Desktop/currency/android/app/src/debug/res
+com.example.currency_converter_app-main-5 /Users/ahmadmalak/Desktop/currency/android/app/src/main/res
+com.example.currency_converter_app-pngs-6 /Users/ahmadmalak/Desktop/currency/build/app/generated/res/pngs/debug
+com.example.currency_converter_app-resValues-7 /Users/ahmadmalak/Desktop/currency/build/app/generated/res/resValues/debug
+com.example.currency_converter_app-rs-8 /Users/ahmadmalak/Desktop/currency/build/app/generated/res/rs/debug
+com.example.currency_converter_app-mergeDebugResources-9 /Users/ahmadmalak/Desktop/currency/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.currency_converter_app-mergeDebugResources-10 /Users/ahmadmalak/Desktop/currency/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.currency_converter_app-merged_res-11 /Users/ahmadmalak/Desktop/currency/build/app/intermediates/merged_res/debug
+com.example.currency_converter_app-packaged_res-12 /Users/ahmadmalak/Desktop/currency/build/path_provider_android/intermediates/packaged_res/debug
+com.example.currency_converter_app-packaged_res-13 /Users/ahmadmalak/Desktop/currency/build/shared_preferences_android/intermediates/packaged_res/debug
+com.example.currency_converter_app-packaged_res-14 /Users/ahmadmalak/Desktop/currency/build/sqflite/intermediates/packaged_res/debug
